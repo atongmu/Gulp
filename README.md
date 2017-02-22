@@ -16,15 +16,15 @@ cnpm gulp install
 
 \app
 
-   \js
+ **\js
 
-   \images
+ **\images
 
-   \css
+ **\css
 
-   \fonts
+**\fonts
 
-   \views
+**\views
 
 
 
